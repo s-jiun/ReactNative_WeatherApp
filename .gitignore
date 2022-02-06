@@ -406,5 +406,5 @@ $RECYCLE.BIN/
 *.lnk
 
 
-./secret.js
+secret.js
 # End of https://www.toptal.com/developers/gitignore/api/reactnative,react,node,visualstudiocode
